@@ -1,4 +1,6 @@
 # Triple MNIST
 
 ## About
-Triple MNIST is a research project aimed at exploring the concept of extending the traditional MNIST dataset to include three different variations of handwritten digits. While the original MNIST dataset consists of grayscale images of handwritten digits from 0 to 9, our project extends this concept by introducing three variations: rotated digits, scaled digits, and noisy digits. By augmenting the dataset with these variations, we aim to create a more challenging dataset for training and evaluating machine learning models, particularly for tasks like digit recognition and classification. Through this project, we seek to investigate the performance of various machine learning algorithms on this augmented dataset and explore potential improvements in accuracy and robustness. We are using Convolution Neural Networks (CNN) for the task of Image Classification. 
+We are working with the triple MNIST and the task is to build a CNN that can recognize the digits in an image.
+
+The solution we came up with, is to build a standard CNN architecture, but we use a genetic algorithm to optimize the number of filters as well as the size of the filters.
