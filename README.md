@@ -4,7 +4,6 @@ We are working with the triple MNIST to distinguish three-digit numbers from MNI
 
 ### Pulling a Repository from GitHub
 
-1. **Clone the Repository:**
 
    Open your terminal and run the following command:
 
