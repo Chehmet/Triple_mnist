@@ -4,11 +4,9 @@ We are working with the triple MNIST to distinguish three-digit numbers from MNI
 
 ### Pulling a Repository from GitHub
 
-To pull the Triple_mnist repository from GitHub, follow these steps:
-
 1. **Clone the Repository:**
 
-   Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command:
+   Open your terminal and run the following command:
 
    ```bash
    git clone https://github.com/Chehmet/Triple_mnist.git
